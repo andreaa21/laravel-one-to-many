@@ -38,7 +38,8 @@ class ProjectController extends Controller
      */
     public function create(Project $project)
     {
-        return view('admin.projects.create', compact('project'));
+        $categories = Category::all();
+        return view('admin.projects.create', compact('project', 'categories'));
     }
 
     /**
