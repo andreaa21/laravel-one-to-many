@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "10ef6b87da73ebb328b9d97d59e811be",
+    "content-hash": "34166b352567a9969cd308a78fb23cf2",
     "packages": [
         {
             "name": "brick/math",
@@ -2151,7 +2151,7 @@
         },
         {
             "name": "pacificdev/laravel_9_preset",
-            "version": "dev-main",
+            "version": "1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fabiopacificicom/laravel-9-preset.git",
@@ -2163,7 +2163,6 @@
                 "reference": "5f305e5705090002a5ebe446d9ffb61b9e052082",
                 "shasum": ""
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "laravel": {
@@ -2195,7 +2194,7 @@
             ],
             "support": {
                 "issues": "https://github.com/fabiopacificicom/laravel-9-preset/issues",
-                "source": "https://github.com/fabiopacificicom/laravel-9-preset/tree/main"
+                "source": "https://github.com/fabiopacificicom/laravel-9-preset/tree/1.0"
             },
             "time": "2022-12-14T18:28:14+00:00"
         },
